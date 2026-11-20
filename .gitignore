@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+server.bundle.mjs
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
